@@ -53,3 +53,10 @@ This task helped me understand the use of complex SQL features like:
 
 These skills are important when working with large datasets in real-world jobs. They allow you to answer more detailed questions from your data and generate meaningful reports.
 
+output:
+
+![Image](https://github.com/user-attachments/assets/10974005-30a7-4abd-925e-ab9a1389e9bb)
+
+![Image](https://github.com/user-attachments/assets/b73753c2-cf1a-4b9b-87dd-ec4bfa76662b)
+
+![Image](https://github.com/user-attachments/assets/561e803e-1fe1-403c-b5a9-a1fdc3e92634)
